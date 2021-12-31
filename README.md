@@ -1,2 +1,4 @@
-# Colecoes-Nativas-Java
-Códigos com coleções nativas do java
+# Desafios-java
+ - Coleções nativas do java
+ - Desafios de raciocínio lógico
+ - POO
