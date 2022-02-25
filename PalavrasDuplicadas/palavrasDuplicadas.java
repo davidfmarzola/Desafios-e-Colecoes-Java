@@ -1,5 +1,6 @@
 import java.util.*;
 
+//pendente
 class palavrasDuplicadas {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
